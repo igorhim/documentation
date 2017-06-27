@@ -65,6 +65,10 @@ Espo.define('custom:views/your-entity-type/record/detail', 'views/record/detail'
 
 ```
 
+### Custom Template
+You are able to create a custom template with following path:
+`client/custom/res/templates/your-entity-type/record/detail.tpl`
+
 
 `client/custom/src/views/your-entity-type/detail.js`
 
